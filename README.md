@@ -32,5 +32,5 @@
 ### Otros proyectos:
 
 - Animación 3D --> <a href="https://www.victorescobar.com">victorescobar.com</a>
-- Modelado y más --> <a href="https://www.victoranimates.blogspot.com">victoranimates.blogspot.com</a>
+- Modelado y más --> <a href="https://victoranimates.blogspot.com/">victoranimates.blogspot.com</a>
 
