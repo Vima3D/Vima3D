@@ -23,6 +23,6 @@
 
 ### Otros proyectos:
 
-- Animación 3D --> <a href="https://www.victorescobar.com">victorescobar.com</a>
-- Modelado y más --> <a href="https://victoranimates.blogspot.com/">victoranimates.blogspot.com</a>
+- Animación 3D --> <a href="https://victoranimates.blogspot.com/">victoranimates.blogspot.com</a>
+- Proyectos de estudio HTML, CSS, REACT, etc --> <a href="https://vima3d.github.io/Tareas_FRONTEND">Tareas y Proyectos</a>
 
